@@ -13,7 +13,7 @@ This respository is dedicated to what I learned from Daniel Bourke and Andrei Ne
 ### 01. Heart Disease Classification
 <hr>
 </hr>
-In this notebook, I will be using logistics regression to predict whether someone has a heart disease or not. Using KNN, Logistic Regression and Random Forest I will use these machine learning models to determine which model returns the best evaluation, in terms of  accuracy, precision, recall and F1. I will also look into fine tuning the hyperparameters of the model with both RandomizedSearchCV and GridSearchCV to get the best out of the model
+In this notebook, I will be using logistics regression to predict whether someone has a heart disease or not. Using KNN, Logistic Regression and Random Forest I will use these machine learning models to determine which model returns the best evaluation, in terms of  accuracy, precision, recall and F1 score. I will also look into fine tuning the hyperparameters of the model with both RandomizedSearchCV and GridSearchCV to get the best out of the model
 
 
 ### 02. Predicting Sales Price of Bulldozer (Time Series)
