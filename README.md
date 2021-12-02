@@ -1,7 +1,7 @@
 # Machine Learning Data Science Bootcamp
 
-This respository is dedicated to what I learned from Daniel Bourke and Andrei Neagoie in their udemy 
-[Complete Machine Learning & Data Science Bootcamp 2022](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+This respository is dedicated to what I learned from Daniel Bourke and Andrei Neagoie in this udemy course,
+[Complete Machine Learning & Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
 
 
 | Number |  Notebook 	|
