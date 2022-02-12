@@ -15,7 +15,7 @@ This respository is dedicated to what I learned from Daniel Bourke and Andrei Ne
 </hr>
 This project focus on working specifically on structured data.
 1.	Problem Definition: Given clinical parameters about a patient, can we predict if they have heart disease.
-2.	Data: The data that we have is found in this link: https://www.kaggle.com/ronitf/heart-disease-uci
+2.	Data: The data that we have is found in this link: (https://www.kaggle.com/ronitf/heart-disease-uci)
 3.	Evaluation: If we can reach 95% accuracy at predicting if a patient has heart disease during the proof of concept, we will pursue the project.
 4.	Features: There are 14 features available in the dataset, which we will identify which feature are of higher importance.
 5.	Modelling: Will be using the following tools, Pandas, Matplotlib, Numpy, SKlearn and Jupyter to build a few machine learning models.
