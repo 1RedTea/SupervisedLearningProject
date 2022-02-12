@@ -6,9 +6,9 @@ This respository is dedicated to what I learned from Daniel Bourke and Andrei Ne
 
 | Number |  Notebook 	|
 | :---  | :--- 	|
-| 01 | [Heart Disease Classification](https://github.com/MHidayatz/OpenCVProjects/blob/main/Automatic%20Number%20Plate%20Recognition/Automatic%20Number%20Plate%20Recognition.ipynb) |
-| 02 | [Predicting Sales Price of Bulldozer (Time Series)](https://github.com/MHidayatz/OpenCVProjects/blob/main/Automatic%20Number%20Plate%20Recognition/Automatic%20Number%20Plate%20Recognition.ipynb) |
-| 03 | [SupervisedLearningProject](https://github.com/MHidayatz/OpenCVProjects/blob/main/Automatic%20Number%20Plate%20Recognition/Automatic%20Number%20Plate%20Recognition.ipynb) |
+| 01 | [Heart Disease Classification](https://github.com/MHidayatz/Machine_Learning_Data_Science_Bootcamp/blob/main/end-to-end-heart-disease-classification.ipynb) |
+| 02 | [Predicting Sales Price of Bulldozer (Time Series)](https://github.com/MHidayatz/Machine_Learning_Data_Science_Bootcamp/blob/main/end-to-end-bulldozer-price-regression%20_.ipynb) |
+| 03 | [SupervisedLearningProject](https://github.com/MHidayatz/Machine_Learning_Data_Science_Bootcamp/blob/main/end_to_end_dog_vision.ipynb) |
 
 ### 01. Heart Disease Classification
 <hr>
