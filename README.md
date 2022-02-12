@@ -40,4 +40,16 @@ This project focus on working specifically on structured data. I wil be tackling
 <hr>
 </hr>
 
+1.	Problem Definition: Identifying the breed of a dog given the image of the dog.
+2.	Data: The data that we have is found in this link: https://www.kaggle.com/c/dog-breed-identification/overview
+3.	Evaluation: The evaluation is a file with prediction probabilities for each dog breed for each test image.
+4.	Features: Some information about the data:
+
+* We're dealing with images (unstructured data) so it's probably best we use deep learning/transfer learning.
+* There are 120 breeds of dogs (this means there are 120 different classes).
+* There are around 10,000+ images in the training set. (these images have labels).
+* There are around 10,000+ images in the test set. (these images have no labels, because we want to predict them).
+
+5.	Modelling: Will be using the following tools, Pandas, Matplotlib, Numpy, SKlearn and Jupyter to build a few machine learning models.
+6.	Experiments: Will be experimenting with several machine learning models such as logistics regression, KNN, Random Forest and Catboost for this dataset. Unlike the first project, I will try to improve the model by finding the best hyperparameters using RandomizedSearchCV.
 
