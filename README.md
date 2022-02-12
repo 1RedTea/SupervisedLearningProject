@@ -13,7 +13,7 @@ This respository is dedicated to what I learned from Daniel Bourke and Andrei Ne
 ### 01. Heart Disease Classification
 <hr>
 </hr>
-~~~
+
 This project focus on working specifically on structured data.
 1.	Problem Definition: Given clinical parameters about a patient, can we predict if they have heart disease.
 2.	Data: The data that we have is found in this link: https://www.kaggle.com/ronitf/heart-disease-uci
@@ -21,7 +21,11 @@ This project focus on working specifically on structured data.
 4.	Features: There are 14 features available in the dataset, which we will identify which feature are of higher importance.
 5.	Modelling: Will be using the following tools, Pandas, Matplotlib, Numpy, SKlearn and Jupyter to build a few machine learning models.
 6.	Experiments: Will be experimenting with several machine learning models such as logistics regression, KNN, Random Forest and Catboost for this dataset.
-~~~
+
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbered
+2. Which is numbered
 
 ### 02. Predicting Sales Price of Bulldozer (Time Series)
 <hr>
