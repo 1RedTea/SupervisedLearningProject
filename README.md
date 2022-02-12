@@ -22,11 +22,6 @@ This project focus on working specifically on structured data.
 5.	Modelling: Will be using the following tools, Pandas, Matplotlib, Numpy, SKlearn and Jupyter to build a few machine learning models.
 6.	Experiments: Will be experimenting with several machine learning models such as logistics regression, KNN, Random Forest and Catboost for this dataset.
 
-1. A numbered list
-    1. A nested numbered list
-    2. Which is numbered
-2. Which is numbered
-
 ### 02. Predicting Sales Price of Bulldozer (Time Series)
 <hr>
 </hr>
