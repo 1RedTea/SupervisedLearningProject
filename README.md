@@ -53,7 +53,7 @@ This project focus on working specifically on unstructured data. I wil be tackli
     * There are around 10,000+ images in the test set. (these images have no labels, because we want to predict them).
 
 5.	Modelling: Will be using the following tools, Pandas, Matplotlib, Numpy, SKlearn, Tensorflow and Google Colab to build a few machine learning models.
-6.	Experiments: Will be building a model with the following actions,
+6.	Will be building a model with the following actions:
 
     * Takes the input shape, output shape and the model we've chosen as parameters.
     * Defines the layers in a Keras model in sequential fashion (do this first, then this, then that).
